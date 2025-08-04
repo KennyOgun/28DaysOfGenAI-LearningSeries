@@ -18,7 +18,8 @@ Each day, I share:
 
 ## 🔄 Evolution of AI: From Traditional to Agentic
 
-![AI Evolution](./assets/genai_evolution.png)
+![AI Evolution](<img width="1024" height="1536" alt="Day 1_ Understanding GenAI Evolution" src="https://github.com/user-attachments/assets/c4391022-0b9f-45e1-b1bf-c5dca35e2f9e" />
+)
 
 > **Diagram**: This image illustrates the progression from traditional **Artificial Intelligence (AI)** to **Machine Learning (ML)**, **Deep Learning (DL)**, **Large Language Models (LLMs)**, **Generative AI (GenAI)**, and the emerging paradigm of **Agentic AI**.
 
@@ -44,9 +45,13 @@ Each subfolder contains:
 Example structure:
 
 📁 day01_intro_to_genai/
+
 ├── post_carousel.png
+
 ├── summary.md
+
 ├── notebook_link.md
+
 ├── resources.md
 
 ---
