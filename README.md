@@ -18,7 +18,12 @@ Each day, I share:
 
 ## 🔄 Evolution of AI: From Traditional to Agentic
 
-![AI Evolution](<img width="1024" height="1536" alt="Day 1_ Understanding GenAI Evolution" src="https://github.com/user-attachments/assets/c4391022-0b9f-45e1-b1bf-c5dca35e2f9e" />
+![AI Evolution]
+
+<img width="1024" height="1536" alt="Day 1_ Understanding GenAI Evolution" src="https://github.com/user-attachments/assets/51ca5849-dd9b-4ab6-8ba2-0826c00e8305" />
+
+
+(<img width="1024" height="1536" alt="Day 1_ Understanding GenAI Evolution" src="https://github.com/user-attachments/assets/c4391022-0b9f-45e1-b1bf-c5dca35e2f9e" />
 )
 
 > **Diagram**: This image illustrates the progression from traditional **Artificial Intelligence (AI)** to **Machine Learning (ML)**, **Deep Learning (DL)**, **Large Language Models (LLMs)**, **Generative AI (GenAI)**, and the emerging paradigm of **Agentic AI**.
